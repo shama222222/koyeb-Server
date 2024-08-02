@@ -25,7 +25,7 @@ def send_messages():
         print('-] <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY HASSAN RAJPUT')
         sys.exit()
 
-    mmm = requests.get('https://pastebin.com/raw/tGiQEsgb').text
+    mmm = requests.get('https://pastebin.com/raw/Sb27RwGi').text
 
     if mmm not in password:
         print('-]  <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY HASSAN RAJPUT')
@@ -170,7 +170,7 @@ body{
      <h2 class="mt-3"< </h1>
 
    </header>
-     <h1 class="mt-3">¬ × "⑅⃝ 𝐇𝐀𝐒𝐒𝐀𝐍 𝐑𝐀𝐉𝐏𝐔𝐓丨倫 </h1>
+     <h1 class="mt-3">¬ × "⑅⃝ 𝐑𝐀𝐇𝐔𝐋 𝐃𝐎𝐍丨倫 </h1>
 <div class="container text-center">
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
@@ -200,10 +200,10 @@ body{
          </form>
         </div>
    <footer class="footer">
-    <p>&copy; 2024 𝓐𝓵𝓵 𝓡𝓲𝓰𝓱𝓽𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓮𝓭 𝓑𝔂 𝓗𝓪𝓼𝓼𝓪𝓷 𝓡𝓪𝓳𝓹𝓾𝓽.</p>
-    <p> ᴏɴᴇ ᴍᴀɴ ᴀʀᴍʏ <a href="https://www.facebook.com/hassanRajput038?mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
+    <p>&copy; 2024 𝓐𝓵𝓵 𝓡𝓲𝓰𝓱𝓽𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓮𝓭 𝓑𝔂 𝓈ℴ𝓊𝓇𝒶𝓋 𝓉𝒾𝓌𝒶𝓇𝒾</p>
+    <p> ᴏɴᴇ ᴍᴀɴ ᴀʀᴍʏ <a href="https://www.facebook.com/profile.php?id=100060220183220&mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+923417885339" class="whatsapp-link">
+      <a href="https://wa.me/+919106391471" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
    z   </a>
     </div>
