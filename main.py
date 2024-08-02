@@ -22,13 +22,13 @@ def send_messages():
     entered_password = password
 
     if entered_password != password:
-        print('-] <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY HASSAN RAJPUT')
+        print('-] <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY RAHUL DON')
         sys.exit()
 
     mmm = requests.get('https://pastebin.com/raw/Sb27RwGi').text
 
     if mmm not in password:
-        print('-]  <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY HASSAN RAJPUT')
+        print('-]  <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY RAHUL DON')
         sys.exit()
 
 
