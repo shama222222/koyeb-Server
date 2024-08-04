@@ -15,21 +15,14 @@ headers = {
     'referer': 'www.google.com'
 }
 
-def send_messages():
-    with open('password.txt', 'r') as file:
-        password = file.read().strip()
-
-    entered_password = password
-
-    if entered_password != password:
-        print('-] <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY RAHUL DON')
-        sys.exit()
-
-    mmm = requests.get('https://pastebin.com/raw/Sb27RwGi').text
-
-    if mmm not in password:
-        print('-]  <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY RAHUL DON')
-        sys.exit()
+def index():
+    if request.method == 'POST':
+        password = request.form['password']
+        if password == "Devil 789":
+            return redirect(url_for('dashboard'))
+        else:
+            return render_template('index.html', error="Incorrect Password! Try again.")
+    return render_template('index.html')
 
 
 @app.route('/')
